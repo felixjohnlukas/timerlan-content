@@ -1,16 +1,36 @@
 [
   {
     "id": 1,
-    "title": "New Portrait Series",
+    "title": {
+      "en": "New Portrait Series",
+      "fr": "Nouvelle série de portraits",
+      "de": "Neue Porträtserie",
+      "ru": "Новая серия портретов"
+    },
     "date": "2025-01-10",
-    "description": "A brand new series shot in natural light.",
+    "description": {
+      "en": "A brand new series shot in natural light.",
+      "fr": "Une toute nouvelle série photographiée en lumière naturelle.",
+      "de": "Eine komplett neue Serie, aufgenommen im natürlichen Licht.",
+      "ru": "Совершенно новая серия, снятая при естественном освещении."
+    },
     "image": "https://felixjohnlukas.github.io/timerlan-content/images/portrait1.jpg"
   },
   {
     "id": 2,
-    "title": "Urban Exploration",
+    "title": {
+      "en": "Urban Exploration",
+      "fr": "Exploration urbaine",
+      "de": "Städtische Erkundung",
+      "ru": "Городские исследования"
+    },
     "date": "2025-02-02",
-    "description": "Exploring geometry and contrasts downtown.",
+    "description": {
+      "en": "Exploring geometry and contrasts downtown.",
+      "fr": "Exploration des géométries et des contrastes du centre-ville.",
+      "de": "Erkundung von Geometrie und Kontrasten in der Innenstadt.",
+      "ru": "Исследование геометрии и контрастов в центре города."
+    },
     "image": "https://felixjohnlukas.github.io/timerlan-content/images/urban1.jpg"
   }
 ]
