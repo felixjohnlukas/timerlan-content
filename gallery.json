@@ -10,5 +10,41 @@
   {
     "id": 3,
     "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery3.jpg"
+  },
+  {
+    "id": 4,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery4.jpg"
+  },
+  {
+    "id": 5,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery5.jpg"
+  },
+  {
+    "id": 6,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery6.jpg"
+  },
+  {
+    "id": 7,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery7.jpg"
+  },
+    {
+    "id": 8,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery8.jpg"
+  },
+    {
+    "id": 9,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery9.jpg"
+  },
+    {
+    "id": 10,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery10.jpg"
+  },
+    {
+    "id": 11,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery11.jpg"
+  },
+    {
+    "id": 12,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery12.jpg"
   }
 ]
