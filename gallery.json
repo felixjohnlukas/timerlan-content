@@ -3,61 +3,61 @@
     "id": 1,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery1.jpg",
-    "tags": [portrait]
+    "tags": ["portrait"]
   },
   {
     "id": 2,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery2.jpg",
-    "tags": [faces]
+    "tags": ["faces"]
   },
   {
     "id": 3,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery3.jpg",
-    "tags": [landscapes]
+    "tags": ["landscapes"]
   },
   {
     "id": 4,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery4.jpg",
-    "tags": [portrait]
+    "tags": ["portrait"]
   },
   {
     "id": 5,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery5.jpg",
-    "tags": [portrait]
+    "tags": ["portrait"]
   },
   {
     "id": 6,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery6.jpg",
-    "tags": [landscapes]
+    "tags": ["landscapes"]
   },
   {
     "id": 7,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery7.jpg",
-    "tags": [landscapes]
+    "tags": ["landscapes"]
   },
   {
     "id": 8,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery8.jpg",
-    "tags": [divers]
+    "tags": ["divers"]
   },
   {
     "id": 9,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery9.jpg",
-    "tags": [divers]
+    "tags": ["divers"]
   },
   {
     "id": 10,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery10.jpg",
-    "tags": [merci]
+    "tags": ["merci"]
   },
   {
     "id": 11,
@@ -69,42 +69,42 @@
     "id": 12,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery12.jpg",
-    "tags": [divers]
+    "tags": ["divers"]
   },
   {
     "id": 13,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery13.jpg",
-    "tags": [divers]
+    "tags": []
   },
   {
     "id": 14,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery14.jpg",
-    "tags": [faces]
+    "tags": ["faces"]
   },
   {
     "id": 15,
     "type": "video",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery15.mp4",
-    "tags": [faces]
+    "tags": ["faces"]
   },
   {
     "id": 16,
     "type": "video",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery16.mp4",
-    "tags": [portraits]
+    "tags": ["portraits"]
   },
   {
     "id": 17,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery17.jpg",
-    "tags": [divers]
+    "tags": ["divers"]
   },
   {
     "id": 18,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery18.jpg",
-    "tags": [faces]
+    "tags": ["faces"]
   }
 ]
