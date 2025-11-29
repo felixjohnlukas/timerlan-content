@@ -46,5 +46,21 @@
     {
     "id": 12,
     "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery12.jpg"
+  },
+      {
+    "id": 13,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery13.jpg"
+  },
+      {
+    "id": 14,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery14.jpg"
+  },
+      {
+    "id": 15,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery15.mp4"
+  },
+      {
+    "id": 16,
+    "image": "https://felixjohnlukas.github.io/timerlan-content/images/gallery16.mp4"
   }
 ]
