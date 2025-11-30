@@ -3,108 +3,126 @@
     "id": 1,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery1.jpg",
-    "tags": ["portrait"]
+    "tags": ["portrait"],
+    "description": "Un portrait capturé dans une lumière douce, révélant une expression calme."
   },
   {
     "id": 2,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery2.jpg",
-    "tags": ["faces"]
+    "tags": ["faces"],
+    "description": "Un visage expressif mis en valeur par un cadrage serré et artistique."
   },
   {
     "id": 3,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery3.jpg",
-    "tags": ["landscapes"]
+    "tags": ["landscapes"],
+    "description": "Un paysage vaste et paisible aux couleurs naturelles et équilibrées."
   },
   {
     "id": 4,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery4.jpg",
-    "tags": ["portrait"]
+    "tags": ["portrait"],
+    "description": "Un portrait vibrant capturant une personnalité forte et affirmée."
   },
   {
     "id": 5,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery5.jpg",
-    "tags": ["portrait"]
+    "tags": ["portrait"],
+    "description": "Une photographie centrée sur les détails du visage et l’intensité du regard."
   },
   {
     "id": 6,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery6.jpg",
-    "tags": ["landscapes"]
+    "tags": ["landscapes"],
+    "description": "Un décor naturel baigné de lumière mettant en avant profondeur et relief."
   },
   {
     "id": 7,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery7.jpg",
-    "tags": ["landscapes"]
+    "tags": ["landscapes"],
+    "description": "Une scène extérieure capturée avec une ambiance atmosphérique."
   },
   {
     "id": 8,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery8.jpg",
-    "tags": ["divers"]
+    "tags": ["divers"],
+    "description": "Une composition originale jouant sur les formes et les couleurs."
   },
   {
     "id": 9,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery9.jpg",
-    "tags": ["divers"]
+    "tags": ["divers"],
+    "description": "Une scène capturée spontanément, pleine de naturel et de dynamisme."
   },
   {
     "id": 10,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery10.jpg",
-    "tags": ["merci"]
+    "tags": ["merci"],
+    "description": "Une image symbolique évoquant gratitude et convivialité."
   },
   {
     "id": 11,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery11.jpg",
-    "tags": []
+    "tags": [],
+    "description": "Une photo mystérieuse laissant libre cours à l’interprétation."
   },
   {
     "id": 12,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery12.jpg",
-    "tags": ["divers"]
+    "tags": ["divers"],
+    "description": "Une vue unique capturée dans un moment inattendu."
   },
   {
     "id": 13,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery13.jpg",
-    "tags": []
+    "tags": [],
+    "description": "Une image artistiquement composée avec une ambiance subtile."
   },
   {
     "id": 14,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery14.jpg",
-    "tags": ["faces"]
+    "tags": ["faces"],
+    "description": "Un visage capturé dans un moment d’émotion authentique."
   },
   {
     "id": 15,
     "type": "video",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery15.mp4",
-    "tags": ["faces"]
+    "tags": ["faces"],
+    "description": "Une courte vidéo mettant en scène des expressions faciales captivantes."
   },
   {
     "id": 16,
     "type": "video",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery16.mp4",
-    "tags": ["portraits"]
+    "tags": ["portraits"],
+    "description": "Un portrait animé révélant les émotions au fil des mouvements."
   },
   {
     "id": 17,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery17.jpg",
-    "tags": ["divers"]
+    "tags": ["divers"],
+    "description": "Une scène variée capturant un instant unique et vivant."
   },
   {
     "id": 18,
     "type": "image",
     "url": "https://felixjohnlukas.github.io/timerlan-content/images/gallery18.jpg",
-    "tags": ["faces"]
+    "tags": ["faces"],
+    "description": "Un visage photographié avec une lumière équilibrée et expressive."
   }
 ]
