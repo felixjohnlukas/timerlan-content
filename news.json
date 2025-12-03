@@ -9,28 +9,35 @@
     },
     "date": "2025-01-10",
     "description": {
-      "en": "A brand new series shot in natural light.",
-      "fr": "Une toute nouvelle série photographiée en lumière naturelle.",
-      "de": "Eine komplett neue Serie, aufgenommen im natürlichen Licht.",
-      "ru": "Совершенно новая серия, снятая при естественном освещении."
+      "fr": [
+        {
+          "type": "text",
+          "value": "Une toute nouvelle série photographiée en lumière naturelle."
+        },
+        {
+          "type": "image",
+          "value": "https://felixjohnlukas.github.io/timerlan-content/images/detail1.jpg"
+        },
+        {
+          "type": "text",
+          "value": "J’ai expérimenté avec des tons plus doux et des compositions serrées."
+        },
+        {
+          "type": "image",
+          "value": "https://felixjohnlukas.github.io/timerlan-content/images/detail2.jpg"
+        }
+      ],
+      "en": [
+        {
+          "type": "text",
+          "value": "A brand new series shot in natural light."
+        },
+        {
+          "type": "image",
+          "value": "https://felixjohnlukas.github.io/timerlan-content/images/detail1.jpg"
+        }
+      ]
     },
     "image": "https://felixjohnlukas.github.io/timerlan-content/images/portrait1.jpg"
-  },
-  {
-    "id": 2,
-    "title": {
-      "en": "Urban Exploration",
-      "fr": "Exploration urbaine",
-      "de": "Städtische Erkundung",
-      "ru": "Городские исследования"
-    },
-    "date": "2025-02-02",
-    "description": {
-      "en": "Exploring geometry and contrasts downtown.",
-      "fr": "Exploration des géométries et des contrastes du centre-ville.",
-      "de": "Erkundung von Geometrie und Kontrasten in der Innenstadt.",
-      "ru": "Исследование геометрии и контрастов в центре города."
-    },
-    "image": "https://felixjohnlukas.github.io/timerlan-content/images/urban1.jpg"
   }
 ]
