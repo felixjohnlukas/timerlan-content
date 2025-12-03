@@ -1,76 +1,65 @@
 {
-  "id": "user-001",
-  "profileImageURL": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=1200&auto=format&fit=crop&q=80",
-  "location": {
-    "latitude": 50.6453,
-    "longitude": 6.0426,
-    "label": "Eupen, Belgique"
+  "fr": {
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "tags": ["Astronaute", "Cuisinier", "Photographe"],
+    "social": {
+      "instagram": "https://instagram.com/tonprofil",
+      "snapchat": "https://snapchat.com/add/tonprofil",
+      "tiktok": "https://tiktok.com/@tonprofil"
+    },
+    "biography": [
+      "Passionné de voyages et découvertes.",
+      "Toujours prêt à apprendre quelque chose de nouveau."
+    ],
+    "locationName": "Eupen, Belgique",
+    "mapsQuery": "Eupen"
   },
-  "socialLinks": [
-    {
-      "id": "ig",
-      "provider": "instagram",
-      "url": "https://instagram.com/example",
-      "title": "Instagram"
+
+  "en": {
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "tags": ["Astronaut", "Cook", "Photographer"],
+    "social": {
+      "instagram": "https://instagram.com/yourprofile",
+      "snapchat": "https://snapchat.com/add/yourprofile",
+      "tiktok": "https://tiktok.com/@yourprofile"
     },
-    {
-      "id": "tiktok",
-      "provider": "tiktok",
-      "url": "https://tiktok.com/@example",
-      "title": "TikTok"
+    "biography": [
+      "Passionate about travel and discovery.",
+      "Always ready to learn something new."
+    ],
+    "locationName": "Eupen, Belgium",
+    "mapsQuery": "Eupen"
+  },
+
+  "de": {
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "tags": ["Astronaut", "Koch", "Fotograf"],
+    "social": {
+      "instagram": "https://instagram.com/deinprofil",
+      "snapchat": "https://snapchat.com/add/deinprofil",
+      "tiktok": "https://tiktok.com/@deinprofil"
     },
-    {
-      "id": "snap",
-      "provider": "snapchat",
-      "url": "https://snapchat.com/add/example",
-      "title": "Snapchat"
-    }
-  ],
-  "tags": ["Astronaute","Cuisinier","Photographe"],
-  "localized": {
-    "en": {
-      "fullName": "Firstname Lastname",
-      "biographyTitle": "Biography",
-      "biographyText": "I am a photographer and space enthusiast. I love cooking and travel.",
-      "tags": ["Astronaut","Chef","Photographer"],
-      "socialTitles": {
-        "instagram": "Instagram",
-        "tiktok": "TikTok",
-        "snapchat": "Snapchat"
-      }
+    "biography": [
+      "Leidenschaftlich an Reisen und Entdeckungen interessiert.",
+      "Immer bereit, etwas Neues zu lernen."
+    ],
+    "locationName": "Eupen, Belgien",
+    "mapsQuery": "Eupen"
+  },
+
+  "ru": {
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "tags": ["Астронавт", "Повар", "Фотограф"],
+    "social": {
+      "instagram": "https://instagram.com/твоястраница",
+      "snapchat": "https://snapchat.com/add/твоястраница",
+      "tiktok": "https://tiktok.com/@твоястраница"
     },
-    "fr": {
-      "fullName": "Prénom Nom",
-      "biographyTitle": "Carte Biographie",
-      "biographyText": "Je suis photographe et passionné·e par l'espace. J'adore cuisiner et voyager.",
-      "tags": ["Astronaute","Cuisinier","Photographe"],
-      "socialTitles": {
-        "instagram": "Instagram",
-        "tiktok": "TikTok",
-        "snapchat": "Snapchat"
-      }
-    },
-    "de": {
-      "fullName": "Vorname Name",
-      "biographyTitle": "Biographie",
-      "biographyText": "Ich bin Fotograf und Raumfahrtbegeistert. Ich koche und reise gern.",
-      "tags": ["Astronaut","Koch","Fotograf"],
-      "socialTitles": {
-        "instagram": "Instagram",
-        "tiktok": "TikTok",
-        "snapchat": "Snapchat"
-      }
-    },
-    "ru": {
-      "fullName": "Имя Фамилия",
-      "biographyTitle": "Биография",
-      "biographyText": "Я фотограф и увлекаюсь космосом. Я люблю готовить и путешествовать.",
-      "tags": ["Астронавт","Повар","Фотограф"],
-      "socialTitles": {
-        "instagram": "Instagram",
-        "tiktok": "TikTok",
-        "snapchat": "Snapchat"
-      }
-    }
+    "biography": [
+      "Увлекаюсь путешествиями и открытиями.",
+      "Всегда готов узнать что-то новое."
+    ],
+    "locationName": "Эйпен, Бельгия",
+    "mapsQuery": "Eupen"
   }
 }
