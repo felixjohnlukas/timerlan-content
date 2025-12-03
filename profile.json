@@ -1,6 +1,6 @@
 {
   "fr": {
-    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/images/profile-picture.jpg",
     "tags": ["Astronaute", "Cuisinier", "Photographe"],
     "social": {
       "instagram": "https://instagram.com/tonprofil",
@@ -16,7 +16,7 @@
   },
 
   "en": {
-    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/images/profile-picture.jpg",
     "tags": ["Astronaut", "Cook", "Photographer"],
     "social": {
       "instagram": "https://instagram.com/yourprofile",
@@ -32,7 +32,7 @@
   },
 
   "de": {
-    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/images/profile-picture.jpg",
     "tags": ["Astronaut", "Koch", "Fotograf"],
     "social": {
       "instagram": "https://instagram.com/deinprofil",
@@ -48,7 +48,7 @@
   },
 
   "ru": {
-    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/profile-picture.jpg",
+    "imageURL": "https://felixjohnlukas.github.io/timerlan-content/images/profile-picture.jpg",
     "tags": ["Астронавт", "Повар", "Фотограф"],
     "social": {
       "instagram": "https://instagram.com/твоястраница",
